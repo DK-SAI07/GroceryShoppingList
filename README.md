@@ -1,6 +1,10 @@
 # Grocery Store Checklist Application
 
-## Overview
+# Project Title: Grocery Store Check List
+
+## Video Demo: [https://youtu.be/pNEd-YCJP9g?si=Whnadd9af-GNYsCk](https://youtu.be/pNEd-YCJP9g?si=Whnadd9af-GNYsCk)
+
+## Description:
 The Grocery Store Checklist application is a versatile and practical web-based tool designed to streamline the grocery shopping experience. Developed using Flask, SQLite, HTML, CSS, JavaScript, and Jinja (Python), this application combines a robust backend with an intuitive and dynamic frontend, ensuring a seamless user experience. The core functionality revolves around loading a random selection of five products from a database and allowing users to add or remove items as per their needs, making it a useful and fully functional application.
 
 ## Technologies Used
